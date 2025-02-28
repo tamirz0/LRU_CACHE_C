@@ -1,11 +1,7 @@
 /*
 TP LRU CACHE
 
-INTEGRANTES
-    - 39169971 Cugliari Aldana Natali
-    - 46418949 Rodriguez Gonzalo Leonel
-    - 42572887 Burgos Agustin Ezequiel
-    - 45318319 Avella Mateo Tamir
+
 
 */
 
