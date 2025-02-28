@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1730141271 source:c:\algoritmos\mi_tp\tp_lru_cache\tdalrucache\lrucache.c
+	"lrucache.h"
+
+1730065550 c:\algoritmos\mi_tp\tp_lru_cache\tdalrucache\lrucache.h
+	<stdlib.h>
+	<string.h>
+
+1730140289 source:c:\algoritmos\mi_tp\tp_lru_cache\tweener\tweener.c
+	"tweener.h"
+
+1730065637 c:\algoritmos\mi_tp\tp_lru_cache\tweener\tweener.h
+	<stdio.h>
+	<time.h>
+	"../tdaLruCache/lrucache.h"
+
+1730140031 source:c:\algoritmos\mi_tp\tp_lru_cache\tweener\main.c
+	<stdio.h>
+	"tweener.h"
+
